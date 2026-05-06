@@ -1,0 +1,22 @@
+# AWS credentials and config
+.aws/
+.local/
+.cache/
+.config/
+.jupyter/
+.ipython/
+.npm/
+.sagemaker_sql_editor_api_cache/
+.workflows_setup/
+
+# System files
+.bashrc
+*.log
+*.sqlite3
+*.db
+*.db-shm
+*.db-wal
+
+# Temporary files
+*~
+.DS_Store
